@@ -54,7 +54,7 @@ button {
 }
 
 .hero-content h2 {
-    font-size: 48px;
+    font-size: 46px;
     font-weight: #900;
     color: #F9FAF8;
     margin: 0;
@@ -78,6 +78,9 @@ button {
     width: 430px;
     height: 220px;
     border-radius: 15px;
+    border-style: solid;
+    border-color: #E5E7EB;
+    border-width: 5px;
 }
 
 .logo {
