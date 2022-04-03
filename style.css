@@ -63,16 +63,21 @@ button {
 .hero-content p {
     font-size: 18px;
     color: #E5E7EB;
-    margin: 8px 0px;
+    margin: 12px 0px;
 }
 
 .image {
-    background-color: grey;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 500px;
     height: 220px;
+}
+
+.hero-pic {
+    width: 430px;
+    height: 220px;
+    border-radius: 15px;
 }
 
 .logo {
@@ -159,7 +164,7 @@ button {
 
 .author {
 
-  align-self: flex-end;
+  align-self: flex-end; 
 }
 
 .section-4 {
