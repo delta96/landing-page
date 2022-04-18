@@ -88,6 +88,14 @@ button {
     color: #F9FAF8;
 }
 
+.logo a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: snow;
+}
+
 .logo:hover {
     text-decoration: underline;
     cursor: pointer;

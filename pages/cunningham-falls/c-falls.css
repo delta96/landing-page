@@ -93,6 +93,10 @@ button {
     text-decoration: none;
 }
 
+.logo:hover {
+    text-decoration: underline;
+}
+
 a:visited {
     color: snow;
 }
